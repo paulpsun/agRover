@@ -1,0 +1,9 @@
+left_6in
+left_8in
+left_14in
+left_20in
+mid
+right_6in
+right_8in
+right_14in
+right_20in

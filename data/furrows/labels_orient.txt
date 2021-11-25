@@ -1,0 +1,5 @@
+left_20deg
+left_40deg
+right_20deg
+right_40deg
+straight
